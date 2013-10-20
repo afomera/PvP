@@ -1,9 +1,9 @@
 main: com.kolinkrewinkel.BitLimitPvP.BitLimitPvP
 name: BitLimit PvP
-version: ${project.version}
-author: Kolin Krewinkel
+version: 0.1.1
+author: Kolin Krewinkel & Updated by King601
 description: BitLimit PVP Plugin
-website: http://github.com/kolinkrewinkel/BitLimitPvP/
+website: http://github.com/BitLimit/PvP/
 softdepend: [WorldGuard]
 commands:
   map:
