@@ -8,6 +8,8 @@ public class PvP extends JavaPlugin {
     @Override
     void onEnable(){
           new PvPListener.plugin = this();
+
+         this.getCommand("map").setExecutor(new MapCommandExecutor(this));
     }
 
     @Override
