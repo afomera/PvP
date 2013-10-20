@@ -1,5 +1,5 @@
-main: com.kolinkrewinkel.BitLimitPvP.BitLimitPvP
-name: BitLimit PvP
+main: com.bitlimit.PvP.PvP
+name: PvP
 version: 0.1.1
 author: Kolin Krewinkel & Updated by King601
 description: BitLimit PVP Plugin
